@@ -1,0 +1,20 @@
+{
+    "name": "mocha-vscode-snippets",
+    "description": "Snippets for better workflow when performing test automation with mocha.",
+    "version": "0.0.1",
+    "publisher": "isortegah",
+    "engines": {
+        "vscode": "^1.0.0"
+    },
+    "categories": [
+        "Snippets"
+    ],
+    "contributes": {
+        "snippets": [
+            {
+                "language": "javascript",
+                "path": "./snippets/javascript.json"
+            }
+        ]
+    }
+}

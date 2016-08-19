@@ -1,0 +1,8 @@
+{
+    "it": {
+		"prefix": "it",
+		"body": "it( '' , function (done) {\n\n});",
+		"description": "Función que contiene la llamada a los métodos"
+		
+	}
+}
